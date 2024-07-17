@@ -60,7 +60,7 @@ body {
   width: 100px;
 }
 .auth-input {
-  background-color: #3e404b;
+  background-color: #747a9c;
   color: white;
   font-family: "Avenir";
   outline: none;
@@ -74,7 +74,7 @@ body {
   width: 100%;
   height: 53px;
   color: white;
-  background-color: #fa541c;
+  background-color: #fabf1c;
   border: none;
   outline: none;
   border-radius: 8px;
