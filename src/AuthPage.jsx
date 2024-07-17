@@ -19,7 +19,7 @@ const AuthPage = (props) => {
         <div className="form-subtitle">Set a username to get started.</div>
 
         <div className="form-subtitle">
-          Sif username was set previously please type previous username to log
+          If username was set previously please, type previous username to log
           in
         </div>
 
