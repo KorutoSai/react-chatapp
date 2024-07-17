@@ -73,8 +73,8 @@ body {
 .auth-button {
   width: 100%;
   height: 53px;
-  color: white;
-  background-color: #fabf1c;
+  color: rgb(240, 234, 234);
+  background-color: #b66912;
   border: none;
   outline: none;
   border-radius: 8px;
